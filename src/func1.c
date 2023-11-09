@@ -1,7 +1,7 @@
 #include "funcs.h"
 
-void foo() {
+void foo(int num) {
 
-printf("Hello foo\n");
+printf("Hello foo %d\n",num);
 
 }
