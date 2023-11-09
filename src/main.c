@@ -1,7 +1,9 @@
 #include "funcs.h"
 
-int main() {
+int main(){
+
 foo();
+goo();
 
 return 0;
 }
